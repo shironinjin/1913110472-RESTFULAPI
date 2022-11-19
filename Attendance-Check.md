@@ -1,1 +1,1 @@
-jiraporn Tubchum (may) :Introduction
+Jiraporn Tupchum (May): Chapter 2 - Basic NPM & Basic Modern Javascript
